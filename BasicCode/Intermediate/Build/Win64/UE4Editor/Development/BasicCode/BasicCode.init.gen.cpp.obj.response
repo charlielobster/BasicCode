@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "E:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I E:\Toob\unreal_cpp\BasicCode\BasicCode\Source
-/I E:\Toob\unreal_cpp\BasicCode\BasicCode\Intermediate\Build\Win64\UE4Editor\Inc\BasicCode
-/I E:\Toob\unreal_cpp\BasicCode\BasicCode\Source\BasicCode
+/I E:\Toob\unreal_cpp\BasicCode2\BasicCode\Source
+/I E:\Toob\unreal_cpp\BasicCode2\BasicCode\Intermediate\Build\Win64\UE4Editor\Inc\BasicCode
+/I E:\Toob\unreal_cpp\BasicCode2\BasicCode\Source\BasicCode
 /I "E:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "E:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "E:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -363,9 +363,9 @@
 /FI"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\Toob\unreal_cpp\BasicCode\BasicCode\Intermediate\Build\Win64\UE4Editor\Inc\BasicCode\BasicCode.init.gen.cpp"
-/FI"E:\Toob\unreal_cpp\BasicCode\BasicCode\Intermediate\Build\Win64\UE4Editor\Development\BasicCode\Definitions.BasicCode.h"
-/Fo"E:\Toob\unreal_cpp\BasicCode\BasicCode\Intermediate\Build\Win64\UE4Editor\Development\BasicCode\BasicCode.init.gen.cpp.obj"
+"E:\Toob\unreal_cpp\BasicCode2\BasicCode\Intermediate\Build\Win64\UE4Editor\Inc\BasicCode\BasicCode.init.gen.cpp"
+/FI"E:\Toob\unreal_cpp\BasicCode2\BasicCode\Intermediate\Build\Win64\UE4Editor\Development\BasicCode\Definitions.BasicCode.h"
+/Fo"E:\Toob\unreal_cpp\BasicCode2\BasicCode\Intermediate\Build\Win64\UE4Editor\Development\BasicCode\BasicCode.init.gen.cpp.obj"
 /TP
 /GR-
 /W4
